@@ -1,0 +1,2 @@
+{:deps
+ {io.netty/netty-all {:mvn/version "4.1.50.Final"}}}
