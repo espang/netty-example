@@ -1,6 +1,6 @@
-# netty
+# netty-example
 
-This repository is a simple clojure project in clojure. Based on Code from `Netty in Action`
+Implement a simple echo-server based on chapter 2 of Netty in Action with "clojure".
 
 
 ## server
